@@ -1,0 +1,29 @@
+h5 {
+    text-align: center;
+}
+html {
+    text-align: center;
+}
+.container
+{
+    text-align: center;
+}
+
+#myCarousel {
+background-color: #a1bebf;
+}
+#myCarousel img {
+height: 300px;    
+margin-top: 35px;
+
+}
+#carousel-inner p {
+margin-bottom: 15px;
+margin-top: 15px;
+color: white;
+font-size: 20px;
+}
+.dwarfs {
+height: 250;
+width: 250;
+}
